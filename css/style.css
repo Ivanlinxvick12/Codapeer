@@ -1958,6 +1958,9 @@ html.menu-opened body {
 /*-----------------
 	9. Home
 -----------------------*/
+.home-banner{
+background: url(../images/Hacker.jpeg);	
+}
 
 .banner-section {
   background: #f3f3f3;
